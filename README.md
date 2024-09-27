@@ -1,14 +1,10 @@
 # Open and Free AI Courses
 
-Welcome to the repository of open and free AI courses. This repository is aimed at providing a curated list of courses available for AI enthusiasts.
+Welcome to the repository of open and free AI courses. This repository provides a list of open and free courses on various topics related to Artificial Intelligence (AI). Whether you are a beginner or an experienced professional, you will find courses that suit your needs.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Course Categories](#course-categories)
-3. [How to Contribute](#how-to-contribute)
-
-## Introduction
-This repository provides a list of open and free courses on various topics related to Artificial Intelligence (AI). Whether you are a beginner or an experienced professional, you will find courses that suit your needs.
+1. [Course Categories](#course-categories)
+2. [How to Contribute](#how-to-contribute)
 
 ## Course Categories
 
