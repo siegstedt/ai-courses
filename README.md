@@ -11,14 +11,15 @@ Welcome to the repository of open and free AI courses. This repository provides 
 ### AI Basics
 | Course Title | Description | Link |
 |--------------|-------------|------|
-| [Practical Python for AI Coding](AI_Basics/practical-python-ai.md) | Learn Python syntaxes, functions, and libraries frequently used in AI coding. | [Course Link](https://www.coursera.org/learn/practical-python-for-ai-coding--preparation-for-coding) |
+| [Generative AI for Everyone](AI_Basics/generative-ai-for-everyone.md) | Learn about generative AI from Andrew Ng, including hands-on exercises and effective prompt engineering. | [Course Link](https://www.coursera.org/learn/generative-ai-for-everyone) |
 | [Open AI for Beginners: Programmatic Prompting](AI_Basics/open-ai-for-beginners.md) | Programmatically prompt an OpenAI model using the OpenAI API. | [Course Link](https://www.coursera.org/projects/open-ai-for-beginners-programmatic-prompting) |
+| [Practical Python for AI Coding](AI_Basics/practical-python-ai.md) | Learn Python syntaxes, functions, and libraries frequently used in AI coding. | [Course Link](https://www.coursera.org/learn/practical-python-for-ai-coding--preparation-for-coding) |
 
 ### AI Leadership
 | Course Title | Description | Link |
 |--------------|-------------|------|
-| [Generative AI Leadership & Strategy Specialization](AI_Leadership/generative-ai-leadership.md) | Empower leaders with the skills needed to harness the full potential of large language models like ChatGPT. | [Course Link](https://www.coursera.org/specializations/generative-ai-leadership-strategy) |
 | [IBM AI Ladder: A Framework for Deploying AI in your Enterprise](AI_Leadership/ai-ladder.md) | Learn to explain and describe the technical and strategic concepts of the AI Ladder. | [Course Link](https://www.ibm.com/training/badge/ibm-ai-ladder-a-framework-for-deploying-ai-in-your-enterprise) |
+| [Generative AI Leadership & Strategy Specialization](AI_Leadership/generative-ai-leadership.md) | Empower leaders with the skills needed to harness the full potential of large language models like ChatGPT. | [Course Link](https://www.coursera.org/specializations/generative-ai-leadership-strategy) |
 
 ### AI Applications
 | Course Title | Description | Link |
