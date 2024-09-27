@@ -1,0 +1,5 @@
+# Practical Python for AI Coding
+
+**Description**: This course is for a complete novice of Python coding, so no prior knowledge or experience in software coding is required. This course selects, introduces, and explains Python syntaxes, functions, and libraries that were frequently used in AI coding. In addition, this course introduces vital syntaxes, and functions often used in AI coding and explains the complementary relationship among NumPy, Pandas, and TensorFlow, so this course is helpful for even seasoned python users. This course starts with building an AI coding environment without failures on learners’ desktop or notebook computers to enable them to start AI modeling and coding with Scikit-learn, TensorFlow, and Keras upon completing this course. Because learners have an AI coding environment on their computers after taking this course, they can start AI coding and do not need to join or use the cloud-based services.
+
+**Link**: [Practical Python for AI Coding](https://www.coursera.org/learn/practical-python-for-ai-coding--preparation-for-coding)
